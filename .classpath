@@ -13,5 +13,25 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/javadoc/myfaces-api-2.2.12-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/javadoc/myfaces-impl-2.2.12-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/javadoc/myfaces-impl-shared-2.2.12-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/jsdoc/myfaces-api-2.2.12-jsdoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/lib/geronimo-atinject_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/lib/myfaces-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/lib/myfaces-bundle-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/lib/myfaces-impl-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/tlddoc/myfaces-impl-2.2.12-facelets-tlddoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/Uni/3° anno/Sistemi Informativi su Web/librerie/myfaces-core-2.2.12-bin/tlddoc/myfaces-impl-2.2.12-tlddoc.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSF 1.2 (Apache Myfaces JSF Core-1.2 API 1.2.9)">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jst.jsf"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
